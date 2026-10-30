@@ -1,0 +1,434 @@
+{
+  "cattle": [
+    {
+      "bulls": 299,
+      "cows": 7316,
+      "heifers": 9883,
+      "prev_year": 38910,
+      "src": "https://www.agriland.ie/farming-news/beef-kill-january-factory-cattle-supply-down-by-26000-head/",
+      "steers": 9707,
+      "total": 30731,
+      "we": "2026-02-01",
+      "week": 5,
+      "young_bulls": 3526
+    },
+    {
+      "bulls": 295,
+      "cows": 7004,
+      "heifers": 9465,
+      "prev_year": 34852,
+      "src": "https://www.agriland.ie/farming-news/beef-kill-irish-cattle-supply-over-5000-head-week-below-last-year/",
+      "steers": 10521,
+      "total": 30300,
+      "we": "2026-02-08",
+      "week": 6,
+      "young_bulls": 3015
+    },
+    {
+      "bulls": 345,
+      "cows": 6806,
+      "heifers": 9971,
+      "prev_year": 39155,
+      "src": "https://www.agriland.ie/farming-news/beef-kill-processors-rationing-scarce-supply-to-retain-processing-capacity/",
+      "steers": 11046,
+      "total": 31129,
+      "we": "2026-02-15",
+      "week": 7,
+      "young_bulls": 2961
+    },
+    {
+      "bulls": 420,
+      "cows": 7026,
+      "heifers": 10733,
+      "prev_year": 38727,
+      "src": "https://www.agriland.ie/farming-news/beef-kill-2026-factory-cattle-supply-over-52000-head-below-2025-levels/",
+      "steers": 11856,
+      "total": 32424,
+      "we": "2026-03-01",
+      "week": 9,
+      "young_bulls": 2389
+    },
+    {
+      "bulls": 524,
+      "cows": 7281,
+      "heifers": 10571,
+      "prev_year": 38040,
+      "src": "https://www.agriland.ie/farming-news/factory-cattle-kill-sheets-filled-out-despite-lower-weekly-supplies/",
+      "steers": 12366,
+      "total": 32906,
+      "we": "2026-03-08",
+      "week": 10,
+      "young_bulls": 2164
+    },
+    {
+      "bulls": 503,
+      "cows": 6956,
+      "heifers": 10210,
+      "prev_year": 37281,
+      "src": "https://www.agriland.ie/farming-news/beef-kill-numbers-down-and-factory-cattle-booking-delays-continue/",
+      "steers": 12052,
+      "total": 31968,
+      "we": "2026-03-15",
+      "week": 11,
+      "young_bulls": 2247
+    },
+    {
+      "bulls": 583,
+      "cows": 6648,
+      "heifers": 10144,
+      "prev_year": 36133,
+      "src": "https://www.agriland.ie/farming-news/beef-kill-weekly-kill-numbers-continue-to-trend-below-last-year/",
+      "steers": 12763,
+      "total": 32211,
+      "we": "2026-03-29",
+      "week": 13,
+      "young_bulls": 2073
+    },
+    {
+      "bulls": 426,
+      "cows": 6667,
+      "heifers": 9729,
+      "prev_year": 36205,
+      "src": "https://www.agriland.ie/farming-news/beef-kill-2026-cattle-kill-over-72000-head-behind-last-year-to-date/",
+      "steers": 12383,
+      "total": 30808,
+      "we": "2026-04-05",
+      "week": 14,
+      "young_bulls": 1603
+    },
+    {
+      "bulls": 554,
+      "cows": 6768,
+      "heifers": 9741,
+      "prev_year": 33879,
+      "src": "https://www.agriland.ie/farming-news/beef-kill-irish-factory-cattle-supply-back-by-near-80000-head-or-14/",
+      "steers": 12963,
+      "total": 31417,
+      "we": "2026-04-19",
+      "week": 16,
+      "young_bulls": 1391
+    },
+    {
+      "bulls": 512,
+      "cows": 6331,
+      "heifers": 9824,
+      "prev_year": 33115,
+      "src": "https://www.agriland.ie/farming-news/beef-kill-where-to-now-for-factory-cattle-supplies-and-beef-price/",
+      "steers": 12320,
+      "total": 30379,
+      "we": "2026-04-26",
+      "week": 17,
+      "young_bulls": 1392
+    },
+    {
+      "bulls": 630,
+      "cows": 6355,
+      "heifers": 9799,
+      "prev_year": 32312,
+      "src": "https://www.agriland.ie/farming-news/beef-kill-weekly-cattle-supplies-continue-to-trend-below-last-year/",
+      "steers": 12289,
+      "total": 30585,
+      "we": "2026-05-03",
+      "week": 18,
+      "young_bulls": 1512
+    },
+    {
+      "bulls": 567,
+      "cows": 5518,
+      "heifers": 9415,
+      "prev_year": 29706,
+      "src": "https://www.agriland.ie/farming-news/beef-kill-weekly-supplies-move-above-same-week-of-last-year/",
+      "steers": 12972,
+      "total": 30151,
+      "we": "2026-05-10",
+      "week": 19,
+      "young_bulls": 1679
+    },
+    {
+      "bulls": 662,
+      "cows": 6797,
+      "heifers": 9640,
+      "prev_year": 28801,
+      "src": "https://www.agriland.ie/farming-news/beef-kill-weekly-cattle-supply-up-9-but-cumulative-kill-down-over-10/",
+      "steers": 12060,
+      "total": 31380,
+      "we": "2026-05-24",
+      "week": 21,
+      "young_bulls": 2221
+    },
+    {
+      "bulls": 625,
+      "cows": 6736,
+      "heifers": 8917,
+      "prev_year": 29145,
+      "src": "https://www.agriland.ie/farming-news/beef-kill-young-bull-supply-steady-as-all-other-cattle-types-down/",
+      "steers": 11433,
+      "total": 30241,
+      "we": "2026-05-31",
+      "week": 22,
+      "young_bulls": 2530
+    },
+    {
+      "bulls": 639,
+      "cows": 5930,
+      "heifers": 9055,
+      "prev_year": 28419,
+      "src": "https://www.agriland.ie/farming-news/beef-kill-are-factory-cattle-numbers-about-to-become-scarce-or-not/",
+      "steers": 11932,
+      "total": 29986,
+      "we": "2026-06-07",
+      "week": 23,
+      "young_bulls": 2430
+    },
+    {
+      "bulls": 790,
+      "cows": 6553,
+      "heifers": 8828,
+      "prev_year": 29102,
+      "src": "https://www.agriland.ie/farming-news/beef-kill-2026-cow-kill-down-by-15-5-or-over-28000-head/",
+      "steers": 10862,
+      "total": 29950,
+      "we": "2026-06-14",
+      "week": 24,
+      "young_bulls": 2917
+    },
+    {
+      "bulls": 753,
+      "cows": 6050,
+      "heifers": 7666,
+      "prev_year": 28819,
+      "src": "https://www.agriland.ie/farming-news/beef-kill-is-the-factory-kill-numbers-drop-due-to-less-demand-or-tighter-supply/",
+      "steers": 10144,
+      "total": 27150,
+      "we": "2026-06-21",
+      "week": 25,
+      "young_bulls": 2537
+    },
+    {
+      "bulls": 415,
+      "cows": 6103,
+      "heifers": 6556,
+      "prev_year": 28962,
+      "src": "https://www.agriland.ie/farming-news/beef-kill-factory-cattle-supply-drops-over-6000-head-in-2-weeks/",
+      "steers": 8345,
+      "total": 23821,
+      "we": "2026-06-28",
+      "week": 26,
+      "young_bulls": 2402
+    },
+    {
+      "bulls": 450,
+      "cows": 6809,
+      "heifers": 6499,
+      "prev_year": 26957,
+      "src": "https://www.agriland.ie/farming-news/beef-kill-when-will-current-record-low-weekly-factory-supplies-recover/",
+      "steers": 8123,
+      "total": 23785,
+      "we": "2026-07-05",
+      "week": 27,
+      "young_bulls": 1904
+    },
+    {
+      "bulls": 471,
+      "cows": 7689,
+      "heifers": 7376,
+      "prev_year": 23745,
+      "src": "https://www.agriland.ie/farming-news/beef-kill-weekly-cattle-supplies-rising-after-mid-summer-drop-off/",
+      "steers": 9543,
+      "total": 26840,
+      "we": "2026-07-19",
+      "week": 29,
+      "young_bulls": 1761
+    },
+    {
+      "bulls": 570,
+      "cows": 6607,
+      "heifers": 8757,
+      "prev_year": 24268,
+      "src": "https://www.agriland.ie/farming-news/august-factory-cattle-supply-to-date-surges-by-27-versus-last-year/",
+      "steers": 13205,
+      "total": 30774,
+      "we": "2026-08-09",
+      "week": 32,
+      "young_bulls": 1635
+    },
+    {
+      "bulls": 651,
+      "cows": 6498,
+      "heifers": 8701,
+      "prev_year": 25472,
+      "src": "https://www.agriland.ie/farming-news/beef-kill-weekly-factory-cow-kill-up-40-on-same-week-of-last-year/",
+      "steers": 14263,
+      "total": 31879,
+      "we": "2026-08-16",
+      "week": 33,
+      "young_bulls": 1766
+    },
+    {
+      "bulls": 608,
+      "cows": 6792,
+      "heifers": 8628,
+      "prev_year": 26229,
+      "src": "https://www.agriland.ie/farming-news/beef-kill-weekly-factory-cattle-supplies-surpass-32500-head/",
+      "steers": 15076,
+      "total": 32782,
+      "we": "2026-08-23",
+      "week": 34,
+      "young_bulls": 1678
+    },
+    {
+      "bulls": 564,
+      "cows": 6719,
+      "heifers": 9233,
+      "prev_year": 26613,
+      "src": "https://www.agriland.ie/farming-news/weekly-factory-cattle-supply-up-5600-head-on-same-week-last-year/",
+      "steers": 14217,
+      "total": 32237,
+      "we": "2026-08-30",
+      "week": 35,
+      "young_bulls": 1504
+    },
+    {
+      "bulls": 543,
+      "cows": 6740,
+      "heifers": 9525,
+      "prev_year": 27549,
+      "src": "https://www.agriland.ie/farming-news/beef-kill-cattle-supplies-remain-firm-as-uplift-in-demand-expected/",
+      "steers": 14630,
+      "total": 32824,
+      "we": "2026-09-06",
+      "week": 36,
+      "young_bulls": 1386
+    },
+    {
+      "bulls": 579,
+      "cows": 7266,
+      "heifers": 9080,
+      "prev_year": 28863,
+      "src": "https://www.agriland.ie/farming-news/beef-kill-weekly-factory-cattle-supplies-dip-slightly/",
+      "steers": 14277,
+      "total": 32514,
+      "we": "2026-09-13",
+      "week": 37,
+      "young_bulls": 1312
+    },
+    {
+      "bulls": 480,
+      "cows": 6780,
+      "heifers": 9291,
+      "prev_year": 29496,
+      "src": "https://www.agriland.ie/farming-news/beef-kill-weekly-factory-supplies-continue-to-trend-above-last-year/",
+      "steers": 14807,
+      "total": 32934,
+      "we": "2026-09-20",
+      "week": 38,
+      "young_bulls": 1576
+    },
+    {
+      "bulls": 399,
+      "cows": 7011,
+      "heifers": 10757,
+      "prev_year": null,
+      "src": "https://www.ifa.ie/markets-and-prices/beef-sheep-update-16th-october/",
+      "steers": 15638,
+      "total": 35045,
+      "we": "2026-10-11",
+      "week": 41,
+      "young_bulls": 1240
+    },
+    {
+      "bulls": 388,
+      "cows": 7129,
+      "heifers": 10339,
+      "prev_year": 28109,
+      "src": "https://www.agriland.ie/farming-news/beef-kill-cattle-supply-for-2026-nears-par-with-last-year/",
+      "steers": 15617,
+      "total": 34752,
+      "we": "2026-10-18",
+      "week": 42,
+      "young_bulls": 1279
+    }
+  ],
+  "cattle_ytd": {
+    "prev_year": 1292409,
+    "src": "https://www.agriland.ie/farming-news/beef-kill-cattle-supply-for-2026-nears-par-with-last-year/",
+    "total": 1284900,
+    "we": "2026-10-18"
+  },
+  "note": "Weeks not published in a source we could read are left out (no figures are estimated).",
+  "schema": 1,
+  "sheep": [
+    {
+      "ewes_rams": null,
+      "lambs": null,
+      "src": "https://www.farmersjournal.ie/amp/sheep/markets/sheep-kill-falls-to-just-31-636-head-914563",
+      "total": 31636,
+      "we": "2026-05-03"
+    },
+    {
+      "ewes_rams": 4332,
+      "lambs": 27438,
+      "src": "https://www.farmersjournal.ie/sheep/markets/sheep-trends-kill-remains-at-just-31-770-head-915463",
+      "total": 31770,
+      "we": "2026-05-10"
+    },
+    {
+      "ewes_rams": 5277,
+      "lambs": 26844,
+      "src": "https://www.farmersjournal.ie/sheep/markets/sheep-trends-peak-buying-for-eid-al-adha-916407",
+      "total": 32121,
+      "we": "2026-05-17"
+    },
+    {
+      "ewes_rams": null,
+      "lambs": null,
+      "src": "https://www.farmersjournal.ie/amp/sheep/markets/sheep-trends-factories-move-to-take-control-917399",
+      "total": 44804,
+      "we": "2026-05-24"
+    },
+    {
+      "ewes_rams": null,
+      "lambs": 35582,
+      "src": "https://www.ifa.ie/?p=38761",
+      "total": 42845,
+      "we": "2026-07-26"
+    },
+    {
+      "ewes_rams": null,
+      "lambs": null,
+      "src": "https://www.farmersjournal.ie/sheep/markets/sheep-trends-cuts-of-30c-kg-as-factories-blame-seasonal-price-pressure-926708",
+      "total": 42848,
+      "we": "2026-08-02"
+    },
+    {
+      "ewes_rams": 7456,
+      "lambs": 35545,
+      "src": "https://www.farmersjournal.ie/sheep/markets/sheep-trends-lambs-fall-to-8-kg-base-price-927824",
+      "total": 43264,
+      "we": "2026-08-09"
+    },
+    {
+      "ewes_rams": 7894,
+      "lambs": 38821,
+      "src": "https://www.farmersjournal.ie/sheep/markets/sheep-trends-base-prices-down-to-7-80-kg-928854",
+      "total": 46857,
+      "we": "2026-08-16"
+    },
+    {
+      "ewes_rams": 7580,
+      "lambs": 32829,
+      "src": "https://www.ifa.ie/markets-and-prices/beef-sheep-update-16th-october/",
+      "total": 40846,
+      "we": "2026-10-11"
+    },
+    {
+      "ewes_rams": 6357,
+      "lambs": 34010,
+      "src": "https://www.ifa.ie/markets-and-prices/beef-sheep-update-23rd-october-2/",
+      "total": 40535,
+      "we": "2026-10-18"
+    }
+  ],
+  "source": "DAFM weekly slaughterings at approved export plants (excl. veal), as published by Agriland; w/e 11 Oct from Bord Bia. Sheep from Irish Farmers Journal.",
+  "updated": "2026-10-30T07:46:49Z"
+}

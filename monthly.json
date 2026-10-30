@@ -1,0 +1,165 @@
+{
+  "basis": "R3 grade, € a kg deadweight, excl. VAT, monthly average of weekly prices",
+  "method": "Each month is the average of the weekly R3 prices for weeks starting (Monday) in that month. Prices actually paid, before VAT, so usually a little above the factory base quotes.",
+  "months": {
+    "2025-01": {
+      "cow": 5.39,
+      "heifer": 5.89,
+      "steer": 5.87,
+      "weeks": 4,
+      "young_bull": 5.81
+    },
+    "2025-02": {
+      "cow": 5.87,
+      "heifer": 6.4,
+      "steer": 6.39,
+      "weeks": 4,
+      "young_bull": 6.31
+    },
+    "2025-03": {
+      "cow": 6.69,
+      "heifer": 7.2,
+      "steer": 7.17,
+      "weeks": 5,
+      "young_bull": 7.07
+    },
+    "2025-04": {
+      "cow": 7.11,
+      "heifer": 7.65,
+      "steer": 7.63,
+      "weeks": 4,
+      "young_bull": 7.48
+    },
+    "2025-05": {
+      "cow": 7.05,
+      "heifer": 7.58,
+      "steer": 7.54,
+      "weeks": 4,
+      "young_bull": 7.38
+    },
+    "2025-06": {
+      "cow": 6.86,
+      "heifer": 7.39,
+      "steer": 7.31,
+      "weeks": 5,
+      "young_bull": 7.2
+    },
+    "2025-07": {
+      "cow": 7.05,
+      "heifer": 7.44,
+      "steer": 7.4,
+      "weeks": 4,
+      "young_bull": 7.34
+    },
+    "2025-08": {
+      "cow": 7.19,
+      "heifer": 7.61,
+      "steer": 7.57,
+      "weeks": 4,
+      "young_bull": 7.51
+    },
+    "2025-09": {
+      "cow": 6.93,
+      "heifer": 7.33,
+      "steer": 7.28,
+      "weeks": 5,
+      "young_bull": 7.21
+    },
+    "2025-10": {
+      "cow": 7.08,
+      "heifer": 7.42,
+      "steer": 7.37,
+      "weeks": 4,
+      "young_bull": 7.37
+    },
+    "2025-11": {
+      "cow": 7.02,
+      "heifer": 7.51,
+      "steer": 7.45,
+      "weeks": 4,
+      "young_bull": 7.38
+    },
+    "2025-12": {
+      "cow": 6.73,
+      "heifer": 7.32,
+      "steer": 7.25,
+      "weeks": 5,
+      "young_bull": 7.16
+    },
+    "2026-01": {
+      "cow": 6.64,
+      "heifer": 7.17,
+      "steer": 7.1,
+      "weeks": 4,
+      "young_bull": 7.03
+    },
+    "2026-02": {
+      "cow": 6.69,
+      "heifer": 7.15,
+      "steer": 7.08,
+      "weeks": 4,
+      "young_bull": 7.01
+    },
+    "2026-03": {
+      "cow": 6.39,
+      "heifer": 6.91,
+      "steer": 6.84,
+      "weeks": 5,
+      "young_bull": 6.73
+    },
+    "2026-04": {
+      "cow": 6.27,
+      "heifer": 6.75,
+      "steer": 6.68,
+      "weeks": 4,
+      "young_bull": 6.59
+    },
+    "2026-05": {
+      "cow": 6.12,
+      "heifer": 6.63,
+      "steer": 6.57,
+      "weeks": 4,
+      "young_bull": 6.48
+    },
+    "2026-06": {
+      "cow": 6.01,
+      "heifer": 6.43,
+      "steer": 6.4,
+      "weeks": 5,
+      "young_bull": 6.3
+    },
+    "2026-07": {
+      "cow": 6.31,
+      "heifer": 6.7,
+      "steer": 6.67,
+      "weeks": 4,
+      "young_bull": 6.61
+    },
+    "2026-08": {
+      "cow": 6.13,
+      "heifer": 6.53,
+      "steer": 6.46,
+      "weeks": 5,
+      "young_bull": 6.45
+    },
+    "2026-09": {
+      "cow": 6.28,
+      "heifer": 6.65,
+      "steer": 6.6,
+      "weeks": 4,
+      "young_bull": 6.59
+    },
+    "2026-10": {
+      "cow": 6.33,
+      "heifer": 6.78,
+      "note": "part month: weeks starting 5, 12 and 19 Oct",
+      "steer": 6.73,
+      "weeks": 3,
+      "young_bull": 6.64
+    }
+  },
+  "schema": 1,
+  "source": "EU Commission Agri-food Data Portal: Irish carcass prices reported by DAFM (steers C R3, heifers E R3, young bulls A R3, cows D R3)",
+  "updated": "2026-10-29T09:00:00Z",
+  "url": "https://ec.europa.eu/agrifood/api/beef/prices?memberStateCodes=IE&productCodes=CR3,ER3,AR3,DR3"
+}

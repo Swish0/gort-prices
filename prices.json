@@ -1,0 +1,566 @@
+{
+  "checked": "2026-10-30T07:46:49Z",
+  "factory": {
+    "cattle": {
+      "cow": {
+        "high": 6.5,
+        "low": 6
+      },
+      "heifer": {
+        "high": 6.7,
+        "low": 6.7
+      },
+      "steer": {
+        "high": 6.7,
+        "low": 6.6
+      },
+      "young_bull": {
+        "high": 6.8,
+        "low": 6.7
+      }
+    },
+    "date": "2026-10-28",
+    "ewe": {
+      "high": 5,
+      "low": 4
+    },
+    "lamb": {
+      "date": "2026-10-26",
+      "high": 7.95,
+      "low": 7.9,
+      "source": "The Sheep Site, 27 Oct 2026: ROI plant base quotes €7.90-7.95/kg for week to 26 Oct, plus 15-20c/kg QA bonus",
+      "url": "https://www.thesheepsite.com/lamb-trade-steady-as-most-factories-hold-base-quotes-and-top-quality-lots-fetch-premiums"
+    },
+    "official": {
+      "cow": 6.32,
+      "date": "2026-10-18",
+      "heifer": 6.78,
+      "source": "DAFM R3 average prices paid, w/e 18 Oct 2026, incl. bonuses, excl. VAT (via irelandcattleprice.com)",
+      "steer": 6.74
+    },
+    "source": "Agriland factory quotes 27 Oct 2026: heifers €6.70; young bulls U €6.80, R €6.70; cows P €6.00 to U €6.50. Steers €6.60-6.70 base per irelandcattleprice.com and Irish Examiner 28 Oct 2026 (some factories cut 10c/kg to €6.60 steers, €6.70 heifers).",
+    "url": "https://www.agriland.ie/farming-news/factory-quotes-some-price-pressure-amid-short-week-and-strong-supply/"
+  },
+  "marts": {
+    "Balla": {
+      "cats": {
+        "bullock": {
+          "avg": 4.61,
+          "bands": null,
+          "high": 5.55,
+          "low": 3.93,
+          "n": 3,
+          "top": null
+        },
+        "heifer": {
+          "avg": 5.46,
+          "bands": null,
+          "high": 8.45,
+          "low": 3.93,
+          "n": 4,
+          "top": null
+        }
+      },
+      "date": "2026-10-24",
+      "note": "Sale date inferred (Saturday). Computed from listed lots only (single head each). Heifer high includes a 485kg BB heifer printed at €4,100 (€8.45/kg).",
+      "source": "Irish Examiner mart reports, 28 Oct 2026",
+      "url": "https://www.irishexaminer.com/farming/arid-41929902.html"
+    },
+    "Ballymahon": {
+      "cats": {
+        "weanling_bull": {
+          "avg": null,
+          "bands": [
+            {
+              "avg": 5.09,
+              "max": 300,
+              "min": 200
+            },
+            {
+              "avg": 5.03,
+              "max": 400,
+              "min": 300
+            },
+            {
+              "avg": 4.64,
+              "max": 450,
+              "min": 400
+            },
+            {
+              "avg": 4.87,
+              "max": null,
+              "min": 450
+            }
+          ],
+          "high": 5.71,
+          "low": 5,
+          "n": 4,
+          "top": null
+        },
+        "weanling_heifer": {
+          "avg": null,
+          "bands": [
+            {
+              "avg": 3.55,
+              "max": 200,
+              "min": 0
+            },
+            {
+              "avg": 4.98,
+              "max": 300,
+              "min": 200
+            },
+            {
+              "avg": 4.79,
+              "max": 400,
+              "min": 300
+            }
+          ],
+          "high": 5.97,
+          "low": 4.78,
+          "n": 10,
+          "top": null
+        }
+      },
+      "date": "2026-10-24",
+      "note": "Weanling show and sale 'Saturday last', date inferred as 24 Oct. Band averages as stated in report; low/high/n from listed lots only (avg left blank: no overall average stated). 267 of 312 weanlings sold.",
+      "source": "Irish Farmers Journal, Camera at the Mart, 28 Oct 2026",
+      "url": "https://www.farmersjournal.ie/amp/beef/markets/camera-at-the-mart-keen-farmer-demand-seen-in-ballymahon-938371"
+    },
+    "Castlerea": {
+      "cats": {
+        "cow": {
+          "avg": 3.43,
+          "bands": null,
+          "high": 3.85,
+          "low": 3.17,
+          "n": 3,
+          "top": null
+        },
+        "heifer": {
+          "avg": 5.14,
+          "bands": null,
+          "high": 5.64,
+          "low": 4.54,
+          "n": 4,
+          "top": null
+        },
+        "weanling_bull": {
+          "avg": null,
+          "bands": null,
+          "high": null,
+          "low": null,
+          "n": null,
+          "top": 7.51
+        },
+        "weanling_heifer": {
+          "avg": null,
+          "bands": null,
+          "high": null,
+          "low": null,
+          "n": null,
+          "top": 6.5
+        }
+      },
+      "date": "2026-10-22",
+      "note": "Sale date inferred (Thursday). Heifers and cows computed from listed lots; weanlings: tops only.",
+      "source": "Irish Examiner mart reports, 28 Oct 2026",
+      "url": "https://www.irishexaminer.com/farming/arid-41929902.html"
+    },
+    "Dowra": {
+      "cats": {
+        "bullock": {
+          "avg": 4.93,
+          "bands": null,
+          "high": 5.2,
+          "low": 4.63,
+          "n": 3,
+          "top": null
+        },
+        "cow": {
+          "avg": 3.74,
+          "bands": null,
+          "high": 3.96,
+          "low": 3.43,
+          "n": 3,
+          "top": null
+        },
+        "heifer": {
+          "avg": 4.82,
+          "bands": null,
+          "high": 5.46,
+          "low": 4.38,
+          "n": 4,
+          "top": null
+        },
+        "weanling_bull": {
+          "avg": 7.27,
+          "bands": null,
+          "high": 7.27,
+          "low": 7.27,
+          "n": 1,
+          "top": 7.28
+        },
+        "weanling_heifer": {
+          "avg": 6.88,
+          "bands": null,
+          "high": 6.88,
+          "low": 6.88,
+          "n": 1,
+          "top": null
+        }
+      },
+      "date": "2026-10-24",
+      "note": "Sale date inferred (Saturday). Cattle computed from listed lots incl. lots quoted in text. Weanling figures are single top lots from 17 Oct sale.",
+      "source": "Irish Examiner mart reports, 28 Oct 2026",
+      "url": "https://www.irishexaminer.com/farming/arid-41929902.html"
+    },
+    "Ennis": {
+      "cats": {
+        "bull": {
+          "avg": 3.3,
+          "bands": null,
+          "high": null,
+          "low": null,
+          "n": null,
+          "top": null
+        },
+        "bullock": {
+          "avg": 4.29,
+          "bands": null,
+          "high": 5.15,
+          "low": 3.54,
+          "n": 12,
+          "top": null
+        },
+        "cow": {
+          "avg": 3.44,
+          "bands": null,
+          "high": 4,
+          "low": 2.73,
+          "n": 10,
+          "top": null
+        },
+        "ewe": {
+          "avg": 2.21,
+          "bands": null,
+          "high": 2.51,
+          "low": 1.97,
+          "n": 3,
+          "top": null
+        },
+        "heifer": {
+          "avg": 4.19,
+          "bands": null,
+          "high": 5,
+          "low": 3.78,
+          "n": 10,
+          "top": null
+        },
+        "lamb": {
+          "avg": 3.8,
+          "bands": null,
+          "high": 3.9,
+          "low": 3.62,
+          "n": 7,
+          "top": null
+        },
+        "store_lamb": {
+          "avg": 3.97,
+          "bands": null,
+          "high": 4.15,
+          "low": 3.83,
+          "n": 5,
+          "top": null
+        },
+        "weanling_bull": {
+          "avg": 5.72,
+          "bands": null,
+          "high": 7.24,
+          "low": 3.9,
+          "n": 12,
+          "top": null
+        },
+        "weanling_heifer": {
+          "avg": 5.28,
+          "bands": null,
+          "high": 6.8,
+          "low": 4.49,
+          "n": 9,
+          "top": null
+        }
+      },
+      "date": "2026-10-27",
+      "note": "Weanlings 27 Oct (computed from all listed lots; report: bulls over 300kg back 10c/kg); heifers, cows, aged bulls 22 Oct; bullocks 23 Oct; sheep 26 Oct. Bull = aged bulls average stated in report. Ewe avg is the report's stated €2.21/kg; low/high from 3 listed lots.",
+      "source": "Clare Marts (Ennis) sale reports 22, 23, 26 & 27 Oct 2026",
+      "url": "https://claremarts.ie/market-reports/"
+    },
+    "Kanturk": {
+      "cats": {
+        "bullock": {
+          "avg": 3.55,
+          "bands": null,
+          "high": 3.81,
+          "low": 3.35,
+          "n": 3,
+          "top": null
+        },
+        "cow": {
+          "avg": 2.92,
+          "bands": null,
+          "high": 2.96,
+          "low": 2.89,
+          "n": 2,
+          "top": null
+        },
+        "heifer": {
+          "avg": 3.55,
+          "bands": null,
+          "high": 3.71,
+          "low": 3.4,
+          "n": 2,
+          "top": null
+        },
+        "weanling_bull": {
+          "avg": 5.33,
+          "bands": null,
+          "high": 5.33,
+          "low": 5.33,
+          "n": 1,
+          "top": null
+        },
+        "weanling_heifer": {
+          "avg": 3.91,
+          "bands": null,
+          "high": 3.91,
+          "low": 3.91,
+          "n": 1,
+          "top": null
+        }
+      },
+      "date": "2026-10-27",
+      "note": "Cattle: Tuesday sale, date inferred as 27 Oct (bank-holiday week); computed from listed lots. Weanlings: single top lots from 20 Oct sale (Irish Examiner 21 Oct).",
+      "source": "Irish Examiner mart reports, 28 Oct 2026",
+      "url": "https://www.irishexaminer.com/farming/arid-41929902.html"
+    },
+    "Kilfenora": {
+      "cats": {
+        "weanling_bull": {
+          "avg": 6.61,
+          "bands": null,
+          "high": 8.11,
+          "low": 5.58,
+          "n": 8,
+          "top": 8.11
+        },
+        "weanling_heifer": {
+          "avg": 5.54,
+          "bands": null,
+          "high": 6.55,
+          "low": 5.01,
+          "n": 8,
+          "top": 6.54
+        }
+      },
+      "date": "2026-10-26",
+      "note": "Weanling bulls Sat 24 Oct, weanling heifers Mon 26 Oct; computed from listed (top) lots only. Report's stated whole-sale averages: bulls €5.20/kg, heifers €4.57/kg.",
+      "source": "Clare Marts (Kilfenora) sale reports 24 & 26 Oct 2026",
+      "url": "https://claremarts.ie/market-reports/"
+    },
+    "Kilkenny": {
+      "cats": {
+        "bullock": {
+          "avg": 4.06,
+          "bands": null,
+          "high": 4.28,
+          "low": 3.92,
+          "n": 3,
+          "top": null
+        },
+        "cow": {
+          "avg": null,
+          "bands": null,
+          "high": 4,
+          "low": 1.6,
+          "n": null,
+          "top": 4
+        },
+        "heifer": {
+          "avg": 4.12,
+          "bands": null,
+          "high": 4.74,
+          "low": 3.65,
+          "n": 4,
+          "top": null
+        },
+        "lamb": {
+          "avg": 3.75,
+          "bands": null,
+          "high": 3.89,
+          "low": 3.49,
+          "n": 6,
+          "top": null
+        },
+        "store_lamb": {
+          "avg": 3.68,
+          "bands": null,
+          "high": 3.74,
+          "low": 3.56,
+          "n": 3,
+          "top": null
+        }
+      },
+      "date": "2026-10-19",
+      "note": "Cattle: sale date inferred Thu 15 Oct; report: quality continental bullocks and heifers €4.30-4.70/kg; dry cows €1.60-4.00/kg (range stated, no lots). Sheep: Mon 19 Oct sale; lamb = butcher and factory lambs computed from 6 listed lots (report: factory lambs €3.60-3.85/kg); store lambs from 3 listed lots.",
+      "source": "Cattle: Irish Examiner mart reports, 21 Oct 2026; sheep: Agriland mart report, 21 Oct 2026 (agriland.ie/farming-news/mart-report-farmers-not-increasing-sheep-numbers-despite-solid-prices/)",
+      "url": "https://www.irishexaminer.com/farming/arid-41926856.html"
+    },
+    "Kilmallock": {
+      "cats": {
+        "bullock": {
+          "avg": 3.84,
+          "bands": null,
+          "high": 4.38,
+          "low": 3.37,
+          "n": 12,
+          "top": 4.21
+        },
+        "cow": {
+          "avg": 2.88,
+          "bands": null,
+          "high": 3.47,
+          "low": 2.18,
+          "n": 9,
+          "top": 3.47
+        },
+        "heifer": {
+          "avg": 3.84,
+          "bands": null,
+          "high": 6.4,
+          "low": 3.3,
+          "n": 10,
+          "top": 4.5
+        },
+        "weanling_bull": {
+          "avg": null,
+          "bands": null,
+          "high": null,
+          "low": null,
+          "n": null,
+          "top": 4.92
+        },
+        "weanling_heifer": {
+          "avg": null,
+          "bands": null,
+          "high": null,
+          "low": null,
+          "n": null,
+          "top": 4.95
+        }
+      },
+      "date": "2026-10-27",
+      "note": "Cattle sale Mon 26 Oct: computed from all listed lots; tops are the report's headline figures (bullock lot list exceeds stated top). Weanlings: Tue 27 Oct tops only (Irish Examiner 28 Oct).",
+      "source": "GVM Kilmallock mart report 26/10/2026 (cattle 26 Oct); weanlings 27 Oct from Irish Examiner 28 Oct",
+      "url": "https://gvmgroup.ie/mart-report-26-10-2026/"
+    },
+    "Kilrush": {
+      "cats": {
+        "bullock": {
+          "avg": 3.89,
+          "bands": null,
+          "high": 5.02,
+          "low": 3.21,
+          "n": 8,
+          "top": null
+        },
+        "cow": {
+          "avg": 2.76,
+          "bands": null,
+          "high": 3.24,
+          "low": 2.44,
+          "n": 8,
+          "top": null
+        },
+        "heifer": {
+          "avg": 3.5,
+          "bands": null,
+          "high": 4.53,
+          "low": 2.91,
+          "n": 8,
+          "top": null
+        }
+      },
+      "date": "2026-10-28",
+      "note": "Computed from listed lots (56 of ~400 head on offer). Report: heifer and bullock trade easier by 10-15c/kg, especially dairy-cross types; heavier cows held a good trade.",
+      "source": "Clare Marts (Kilrush) sale report 28 Oct 2026",
+      "url": "https://claremarts.ie/kilrush-mart-wednesday-28th-october-2026/"
+    },
+    "Macroom": {
+      "cats": {
+        "bullock": {
+          "avg": 3.55,
+          "bands": null,
+          "high": 3.83,
+          "low": 3.2,
+          "n": 4,
+          "top": null
+        },
+        "cow": {
+          "avg": 3.39,
+          "bands": null,
+          "high": 3.52,
+          "low": 3.28,
+          "n": 3,
+          "top": null
+        },
+        "heifer": {
+          "avg": 3.91,
+          "bands": null,
+          "high": 4.14,
+          "low": 3.67,
+          "n": 2,
+          "top": null
+        }
+      },
+      "date": "2026-10-24",
+      "note": "Sale date inferred (Saturday). Computed from listed lots incl. lots quoted in text. Report: most quality weanlings ~350kg made €4-5/kg (not split by sex).",
+      "source": "Irish Examiner mart reports, 28 Oct 2026",
+      "url": "https://www.irishexaminer.com/farming/arid-41929902.html"
+    },
+    "Scariff": {
+      "cats": {
+        "bullock": {
+          "avg": 3.92,
+          "bands": null,
+          "high": 4,
+          "low": 3.81,
+          "n": 3,
+          "top": null
+        },
+        "weanling_bull": {
+          "avg": 5.49,
+          "bands": null,
+          "high": 6.13,
+          "low": 4.74,
+          "n": 5,
+          "top": null
+        },
+        "weanling_heifer": {
+          "avg": 4.08,
+          "bands": null,
+          "high": 4.21,
+          "low": 4,
+          "n": 3,
+          "top": null
+        }
+      },
+      "date": "2026-10-17",
+      "note": "Weanling sale; computed from all listed lots.",
+      "source": "Clare Marts (Scariff) sale report 17 Oct 2026",
+      "url": "https://claremarts.ie/scarriff-mart-saturday-17th-october-2026/"
+    }
+  },
+  "schema": 1,
+  "task_id": null,
+  "updated": "2026-10-30T07:46:49Z"
+}
